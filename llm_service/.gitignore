@@ -1,0 +1,9 @@
+# Node modules / Python venv
+node_modules/
+venv/
+
+# IDE / OS files
+*.log
+*.DS_Store
+
+.env

@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+httpx
+openai
+pydantic
+python-dotenv
+trafilatura
+lxml[html_clean]
+langchain
+langchain-community
+unstructured
+unstructured[local-inference]
